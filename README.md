@@ -2,15 +2,11 @@
 Girtha/Girtha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m @Girtha
 Glad to see you're reading me</h1>
 <h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times makes me relaxed</h3>
 
-- 👋 Hi, I’m @Girtha
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
-- 📫 Reach me
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">                                                                                        
@@ -29,6 +25,10 @@ Glad to see you're reading me</h1>
 - 🔭 currently working on some stuff;<br>
 - 🌱 currently learning some basics of CS, OOP and Math;<br>
 - 😴 enthusiastic sleep lover, first sleep – then work! <br>
+- 👀 I’m interested in coding<br>
+- 🌱 I’m currently learning code<br>
+- 💞️ I’m looking to collaborate on code<br>
+- 📫 Feel free to write me
 <br>
 
 <b>Watch my contribution graph eaten by a snake:</b>
